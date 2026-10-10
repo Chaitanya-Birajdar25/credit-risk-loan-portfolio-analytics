@@ -1,0 +1,7 @@
+# Kaggle data files are large and shouldn't be pushed
+*.csv
+!06_ml_phase/results_log.csv
+!06_ml_phase/decile_table.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
