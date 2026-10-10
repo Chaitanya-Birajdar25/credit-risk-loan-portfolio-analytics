@@ -417,3 +417,5 @@ One design problem to solve first: the model takes 130 inputs, and ten of them a
 **2. A live demo site.** A simple web page on top of the API: someone enters a few applicant details and sees the risk score, which decile it falls in, and the main reasons behind it. It would be deployed on a free cloud tier so the link works from this README. I would state three things on the page: it is a demo trained on a public dataset with anonymised external scores, it is not something to use for a real lending decision, and a free tier can be slow to wake up after sitting idle. I would also deal with `code_gender` before going live, either by dropping it and measuring the AUC cost (not measured yet, see Limits) or at least by not asking for it on the site.
 
 Improving the model itself (the bureau tables and recent-window payment features under Limits) is separate from serving it, and could happen before or after.
+#   c r e d i t - r i s k - l o a n - p o r t f o l i o - a n a l y t i c s  
+ 
