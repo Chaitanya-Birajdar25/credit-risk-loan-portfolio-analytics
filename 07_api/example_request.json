@@ -1,0 +1,17 @@
+{
+  "features": {
+    "ext_source_2": 0.5588576815634613,
+    "days_birth": -10951.0,
+    "days_employed": -968.0,
+    "amt_credit": 1057266.0,
+    "amt_goods_price": 945000.0,
+    "amt_annuity": 44923.5,
+    "amt_income_total": 405000.0,
+    "name_education_type": "Higher education",
+    "name_income_type": "Working",
+    "occupation_type": "Sales staff",
+    "organization_type": "Business Entity Type 3",
+    "region_rating_client": 3.0,
+    "days_last_phone_change": -534.0
+  }
+}
